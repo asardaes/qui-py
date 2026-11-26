@@ -1,3 +1,3 @@
-FROM ghcr.io/autobrr/qui:v1.36.1
+FROM ghcr.io/autobrr/qui:v1.37.0
 
 RUN apk add --no-cache python3 py3-requests
